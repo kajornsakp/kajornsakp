@@ -25,6 +25,6 @@
 
 ### Meet my site (WIP) 😂
 
-[](https://media.giphy.com/media/KcDreBsNBhGVrXYWAr/giphy.gif)
+![](https://media.giphy.com/media/KcDreBsNBhGVrXYWAr/giphy.gif)
 
 [Sneak peek](https://kajornsakp.dev)
