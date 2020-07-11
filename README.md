@@ -1,10 +1,10 @@
-### Hello | สวัสดี 🙏 | 你好
+### Hello | สวัสดี 🙏 &nbsp;&nbsp;| 你好
 
-- 💻 Software engineer who loves in learning new technologies 
+- 💻&nbsp;&nbsp;Software engineer who loves in learning new technologies 
 
-- 📱 Huge interested in Mobile applications development, Flutter, IoT and UX/UI
+- 📱&nbsp;&nbsp;Huge interested in Mobile applications development, Flutter, IoT and UX/UI
 
-- 🎨 Currently, Mobile developer/UI Engineer at Agoda
+- 🎨&nbsp;&nbsp;Currently, Mobile developer/UI Engineer at Agoda
 
 
 ### What I do
