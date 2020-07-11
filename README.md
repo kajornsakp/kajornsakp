@@ -24,4 +24,7 @@
 </p>
 
 ### Meet my site (WIP) 😂
-[<img src="https://media.giphy.com/media/fVeAI9dyD5ssIFyOyM/giphy.gif" height="200px">](https://kajornsakp.dev)
+
+![](https://media.giphy.com/media/KcDreBsNBhGVrXYWAr/giphy.gif)
+
+![Sneak peek](https://kajornsakp.dev)
