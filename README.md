@@ -6,7 +6,6 @@
 
 - 🎨&nbsp;&nbsp;Currently, Mobile developer/UI Engineer at Agoda
 
-
 ### What I do
 
 - iOS & Android developer. Actually, all mobile related things 😬
@@ -28,3 +27,13 @@
 ![](https://media.giphy.com/media/KcDreBsNBhGVrXYWAr/giphy.gif)
 
 [Sneak peek](https://kajornsakp.dev)
+
+
+### Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kajornsakp&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajornsakp&layout=compact&theme=dracula" />
+</a>
