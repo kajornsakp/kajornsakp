@@ -4,8 +4,6 @@
 
 - 📱&nbsp;&nbsp;Huge interested in Mobile applications development, Flutter, IoT and UX/UI
 
-- 🎨&nbsp;&nbsp;Currently, Mobile developer/UI Engineer at Agoda
-
 ### What I do
 
 - iOS & Android developer. Actually, all mobile related things 😬
