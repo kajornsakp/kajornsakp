@@ -29,9 +29,7 @@
 
 ### Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kajornsakp&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajornsakp&layout=compact&theme=dracula" />
-</a>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kajornsakp&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kajornsakp&theme=2077)
