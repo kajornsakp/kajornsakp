@@ -20,11 +20,8 @@
 <a href="https://medium.com/@kajornsakp"><img height="30" src="https://github.com/kajornsakp/kajornsakp/blob/main/icon/Medium.png?raw=true"></a>
 </p>
 
-### Meet my site (WIP) 😂
-
-![](https://media.giphy.com/media/KcDreBsNBhGVrXYWAr/giphy.gif)
-
-[Sneak peek](https://kajornsakp.dev)
+### Meet my site
+[Site](https://www.kajornsakp.dev)
 
 
 ### Stats
